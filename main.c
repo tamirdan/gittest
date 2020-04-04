@@ -7,5 +7,8 @@ int main() {
         printf("%d\n", test);
         test--;
     }
+    for (int i=0; i<100; i++) {
+        printf("what? \n");
+    }
     return 0;
 }
